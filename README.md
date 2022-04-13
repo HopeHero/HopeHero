@@ -1,11 +1,6 @@
-Hello! Im Hope Hero! Im currently a student in murrieta studying code. if you wish to see some of my projects check out my personal repository ive probbably linked below (Evenetually)
-
-{Placeholder}
-
-{Placeholder}
-
-{Placeholder}
-
+## ✨ Heres a few links about me or including me! ✨
+  
+  {Place holder}
 <!---
-HopeHero/HopeHero is a ✨ special ✨ cus me appear on le page!
+HopeHero/HopeHero is my page that appears on my profile because im ✨ SPECIAL STUPID ✨
 --->
