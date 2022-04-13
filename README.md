@@ -1,12 +1,12 @@
-## ✨ Heres a few things about me ✨
+## ✨ Here are a few things about me ✨
 > About me
-  - I was born in Augest 7th 2008
+  - I like to kayak in Mission Bay Sandiego!
 
 > Fun Facts
-  - I
+  - I was born on August 7th, 2008
 
-> Main Repositoru
+> Main Repository
   - https://github.com/HopeHero/-Special-Repository-
 <!---
-HopeHero/HopeHero is my page that appears on my profile because im ✨ SPECIAL STUPID ✨
+HopeHero/HopeHero is my page that appears on my profile because I'm ✨ SPECIAL STUPID ✨
 --->
