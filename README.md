@@ -2,6 +2,9 @@
 > About me
   - I like to kayak in Mission Bay Sandiego!
   - I like to practice with weaponry (Nerf/BB)
+  - I started studying code at the age of 6½
+  - I started game/app development at the age of 9
+  - I am the youngest in an all military family
 
 > Fun Facts
   - I was born on August 7th, 2008
