@@ -58,7 +58,7 @@ Resources (Markdown / HTML Bordering)
 Align the github cards + Testing for sub`s in HTML
 --->
 </p>
-  <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko"> <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
   </p>
 </p>
