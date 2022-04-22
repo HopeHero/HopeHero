@@ -62,3 +62,10 @@ Align the github cards + Testing for sub`s in HTML
    <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
   </p>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko" />
+</a>
