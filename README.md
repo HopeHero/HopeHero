@@ -39,6 +39,7 @@ Applications (Markdown / HTML Bordering)
   - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcopilot.github.com/) | [Github Co-Pilot](https://copilot.github.com/)
 
 </p>
+
 ## Resources
 <!---
 Resources (Markdown / HTML Bordering)
@@ -58,9 +59,6 @@ Align the github cards + Testing for sub`s in HTML
 --->
 </p>
   <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
-   <p align="right">
-     <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
-   </p>
+   <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko"> <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
   </p>
 </p>
