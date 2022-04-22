@@ -22,5 +22,16 @@ Hey! Im Gavohn and generally I go by Hope Hero! Im a 13yr old developer/modder f
 
 ## Github Repositories
 
+## Applications
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com) | [Github Website](https://github.com/)
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdesktop.github.com) | [Github Desktop](https://desktop.github.com/)
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcopilot.github.com/) | [Github Co-Pilot](https://copilot.github.com/)
+  - 
+## Resources
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io) | [Shields.io](https://shields.io/)
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdillinger.io%2F) | [Dillinger.io](https://dillinger.io/)
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcarbon.now.sh%2F) | [Carbon.now.sh](https://carbon.now.sh/)
+  - ![Website](https://img.shields.io/website?url=https%3A%2F%2Fbanner.godori.dev%2F) | [banner.godori.dev](https://banner.godori.dev/)
+
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko)
