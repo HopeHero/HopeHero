@@ -1,17 +1,17 @@
-## ✨ Here are a few things about me ✨
-> About me
-  - I like to kayak in Mission Bay Sandiego!
-  - I like to practice with weaponry (Nerf/BB)
-  - I started studying code at the age of 6½
-  - I started game/app development at the age of 9
-  - I am the youngest in an all military family
-
-> Fun Facts
-  - I was born on August 7th, 2008
-  - I shot my cousin in the back of his head with a BB gun when I was younger
-
-> Main Repository
-  - https://github.com/HopeHero/-Special-Repository-
 <!---
-HopeHero/HopeHero is my page that appears on my profile because I'm ✨ SPECIAL STUPID ✨
+Home Page Read Me
 --->
+## Simple Biography
+Hey! Im Gavohn and generally I go by Hope Hero! Im a 13yr old developer/modder for many Games, Utilities, and Websites. I post my projects publicly on github so you all can help me out and even point and mistakes I made. I started coding at the age of 6½ using two websites I still use to this very day, [Tynker](https://tynker.com/) and [Scratch](https://scratch.mit.edu/).
+
+## Social Feature
+
+## Table Of Content
+  - [Social Feature](#social-feature)
+  - [GitHub Repositories](#github-repositories)
+  - [GitHub Stats](#github-stats)
+
+## Github Repositories
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko)
