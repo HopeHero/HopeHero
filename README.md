@@ -57,15 +57,13 @@ Resources (Markdown / HTML Bordering)
 <!---
 Align the github cards + Testing for sub`s in HTML
 --->
+
 </p>
-  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko">
+  <p align="left">
+  
+  | <img src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko"> |  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HopeHero&theme=merko"> |
+  | - | - |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeHero&layout=compact&theme=merko"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeHero&langs_count=8&theme=merko"> |
+  
   </p>
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeHero&show_icons=true&theme=merko" />
-</a>
