@@ -1,7 +1,7 @@
 <!---
 Home Page (Read Me)
 --->
-Hey! Im Gavohn and generally I go by Hope Hero! Im a 13yr old developer/modder for many Games, Utilities, and Websites. I post my projects publicly on github so you all can help me out and even point and mistakes I made. I started coding at the age of 6½ using two websites I still use to this very day, [Tynker](https://tynker.com/) and [Scratch](https://scratch.mit.edu/).
+Hey! Im Gavohn but generally I go by Hope Hero! Im a 13yr old developer/modder for many Games, Utilities, and Websites. I post my projects publicly on github so you all can help me out and even point and mistakes I made. I started coding at the age of 6½ using two websites I still use to this very day, [Tynker](https://tynker.com/) and [Scratch](https://scratch.mit.edu/).
 
 ---
 <!---
